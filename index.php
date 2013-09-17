@@ -53,7 +53,7 @@ function changeContent(display)
 
 <div id="maincontainer">
 	<div id="toc" >
-		<table border="0">
+		<table border="">
 			<tr>
 					<td id="welcomemenu" class="menuitem" onMouseOver='changeColor("welcomemenu","header2","#2C5D3F");'>
 						<a href="#" onClick='changeContent("welcomecontent");'>Welcome</a>									

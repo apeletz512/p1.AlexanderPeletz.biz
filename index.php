@@ -53,7 +53,7 @@ function changeContent(display)
 
 <div id="maincontainer">
 	<div id="toc" >
-		<table border="0">
+		<table border="">
 			<tr>
 					<td id="welcomemenu" class="menuitem" onMouseOver='changeColor("welcomemenu","header2","#2C5D3F");'>
 						<a href="#" onClick='changeContent("welcomecontent");'>Welcome</a>									
@@ -71,7 +71,7 @@ function changeContent(display)
 			</tr>
 		</table>
 	</div>
-	<div="contents">
+	<div id="contents">
 		<div id="welcomecontent" class="contentitem" style="display: true;">
 			<p>Welcome to the first public website designed and maintained by Alexander Peletz. This site was created as part of my enrollment in a dynamic web applications course at the Harvard school of extension studies. </p>
 			<p>Use the links to the menu to the left to navigate this site. </p>

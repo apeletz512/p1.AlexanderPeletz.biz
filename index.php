@@ -91,12 +91,10 @@ function changeContent(display)
 </div>
 
 <div id="footercontainer">
-	<div id="footerbox1">
-	</div>
 	<div id="footer">
 		<p>www.AlexanderPeletz.biz | 2013</p>
 	</div>
-	<div id="footerbox2">
+	<div id="footer2">
 	</div>
 </div>
 </body>

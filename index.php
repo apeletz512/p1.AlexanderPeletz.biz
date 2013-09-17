@@ -89,7 +89,7 @@ function changeContent(display)
 
 <div id="footercontainer">
 	<div id="footer">
-		<p>Footer</p>
+		<p>www.AlexanderPeletz.biz | 2013</p>
 	</div>
 </div>
 </body>

@@ -81,6 +81,7 @@ function changeContent(display)
 			<p>Before entering the information sciences industry, I attended Emory University where I studied Economics, Middle Eastern Studies, and the Arabic language. I still love all things liberal arts and am interested in revisiting my international interests in the not-too-distant future.</p>
 		</div>
 		<div id="designcontent" class="contentitem" style="display: none;">
+			<p>To create my project I primarily used Sublime Text. It has many of the great color-coding qualities of Notepad++ (which I relied on for years) but seems a bit more interactive in terms of automatic formatting and text-completion capabilities.</p>
 		</div>
 	</div>	
 

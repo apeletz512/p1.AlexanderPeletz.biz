@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!--This is a comment-->
 <title>
 Welcome to AlexanderPeletz.biz
@@ -85,7 +85,6 @@ function changeContent(display)
 		<div id="designcontent" class="contentitem" style="display: none;">
 			<p>To create my project I primarily used Sublime Text. It has many of the great color-coding qualities of Notepad++ (which I relied on for years) but seems a bit more interactive in terms of automatic formatting and text completion capabilities.</p>
 		</div>	
-
 </div>
 
 <div id="footercontainer">

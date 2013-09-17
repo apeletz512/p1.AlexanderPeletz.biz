@@ -7,7 +7,7 @@ a:visited {color: black; text-decoration: none;}  /* visited link */
 a:hover {color: black; text-decoration: none;}  /* mouse over link */
 a:active {color: black; text-decoration: none;}  /* selected link */
 
-#headercontainer {float: top; min-width: 1035px;}
+#headercontainer {float: top; min-width: 1050px;}
 #header {background-color: #FFFFFF; font-family: verdana; text-align: center; width: 750px; height:80px; padding: 10px; border:10px solid #000000; display: inline-block; vertical-align: top;}
 #header2 {background-color: #FFFFFF; width:100px; height:90px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #header3 {background-color: #FFFFFF; width:50px; height:80px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
@@ -17,7 +17,7 @@ a:active {color: black; text-decoration: none;}  /* selected link */
 #contents {background-color: #F0F0F0; height:500px; width:180px; margin-top: 2em; margin-bottom: 2em}
 #footerercontainer {background-color: #FFFFFF; float: bottom; min-width: 1050px}
 #footer {background-color: #FFFFFF; font-family: verdana; font-size: small; text-align: center; width: 900px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em;}
-#footer2 {background-color: #FFFFFF; width:25px; height:43px;  border: 5px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
+#footer2 {background-color: #FFFFFF; width:25px; height:42px;  border: 5px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 
 .menuitem {width: 125px; font-family:verdana; text-align:center; padding:10px; border:10px solid #000000; display: block; background-color: #FFFFFF;}
 .contentitem  {background-color: #F0F0F0; font-family:verdana; text-align:left; padding: 30px; width: 785px; float: left; margin-top: 2em; margin-bottom: 2em}

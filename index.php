@@ -53,7 +53,7 @@ function changeContent(display)
 
 <div id="maincontainer">
 	<div id="toc" >
-		<table border="">
+		<table border="0">
 			<tr>
 					<td id="welcomemenu" class="menuitem" onMouseOver='changeColor("welcomemenu","header2","#2C5D3F");'>
 						<a href="#" onClick='changeContent("welcomecontent");'>Welcome</a>									
@@ -71,7 +71,6 @@ function changeContent(display)
 			</tr>
 		</table>
 	</div>
-	<div id="contents">
 		<div id="welcomecontent" class="contentitem" style="display: true;">
 			<p>Welcome to the first public website designed and maintained by Alexander Peletz. This site was created as part of my enrollment in a dynamic web applications course at the Harvard school of extension studies. </p>
 			<p>Use the links to the menu to the left to navigate this site. </p>
@@ -85,8 +84,7 @@ function changeContent(display)
 		</div>
 		<div id="designcontent" class="contentitem" style="display: none;">
 			<p>To create my project I primarily used Sublime Text. It has many of the great color-coding qualities of Notepad++ (which I relied on for years) but seems a bit more interactive in terms of automatic formatting and text completion capabilities.</p>
-		</div>
-	</div>	
+		</div>	
 
 </div>
 

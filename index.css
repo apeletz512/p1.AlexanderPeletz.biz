@@ -16,9 +16,9 @@ a:active {color: black; text-decoration: none;}  /* selected link */
 #toc {min-height: 500px; width: 200px; float: left;}
 #contents {background-color: #F0F0F0; height:500px; width:180px; margin-top: 2em; margin-bottom: 2em}
 #footerercontainer {background-color: #FFFFFF; float: bottom; min-width: 1050px}
-#footerbox1 {background-color: #FFFFFF; width:25px; height:50px;  border: 10px solid #000000; display: inline-block; vertical-align: top;}
-#footer {background-color: #FFFFFF; font-family: verdana; font-size: small; text-align: center; width: 1035px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em;}
-#footerbox2 {background-color: #FFFFFF; width:25px; height:50px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
+#footerbox1 {background-color: #FFFFFF; width:25px; height:30px;  border: 10px solid #000000; display: inline-block; vertical-align: top;}
+#footer {background-color: #FFFFFF; font-family: verdana; font-size: small; text-align: center; width: 900px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em;}
+#footerbox2 {background-color: #FFFFFF; width:25px; height:30px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 
 .menuitem {width: 125px; font-family:verdana; text-align:center; padding:10px; border:10px solid #000000; display: block; background-color: #FFFFFF;}
 .contentitem  {background-color: #F0F0F0; font-family:verdana; text-align:left; padding: 30px; width: 785px; float: left; margin-top: 2em; margin-bottom: 2em}

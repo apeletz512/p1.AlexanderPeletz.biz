@@ -97,7 +97,7 @@ function changeContent(display)
 		<p>www.AlexanderPeletz.biz | 2013</p>
 	</div>
 	<div id="footerbox2">
-	<div>
+	</div>
 </div>
 </body>
 </html>

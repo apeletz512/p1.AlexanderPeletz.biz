@@ -18,7 +18,7 @@ function changeColor(id1,id2,newcolor,footer)
 				if(!id1) {return};
 				var oMenu = document.getElementById(id1);
 				oMenu.style.border = '10px solid' + newcolor;
-			)
+			}
 		else
 			{
 				if(!id1) {return};

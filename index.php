@@ -83,7 +83,7 @@ function changeContent(display)
 			</tr>
 		</table>
 	</div>	
-	<div id="welcomecontent" class="contentitem" style="display: true;">
+	<div id="welcomecontent" class="contentitem">
 		<p>Welcome to the first public website designed and maintained by Alexander Peletz. This site was created as part of my enrollment in a dynamic web applications course at the Harvard School of Extension Studies. </p>
 		<p>Use the links to the menu to the left to navigate this site. </p>
 	</div>

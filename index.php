@@ -9,17 +9,27 @@ Welcome to AlexanderPeletz.biz
 <link rel="stylesheet" type="text/css" href="index.css">
 <script type="text/javascript">
 
-function changeColor(id1,id2,newcolor)
+function changeColor(id1,id2,newcolor,footer)
 	{
 		if(!newcolor) {return};
 		
-		if(!id1) {return};
-		var oMenu = document.getElementById(id1);
-		oMenu.style.border = '10px solid' + newcolor;
+		if(!footer)
+			{	
+				if(!id1) {return};
+				var oMenu = document.getElementById(id1);
+				oMenu.style.border = '10px solid' + newcolor;
+			)
+		else
+			{
+				if(!id1) {return};
+				var oMenu = document.getElementById(id1);
+				oMenu.style.border = '5px solid' + newcolor;
+			}
 		
 		if (!id2) {return};
+		
 		var oHeader = document.getElementById(id2);
-		oHeader.style.border= '10px solid' + newcolor;
+		oHeader.style.border= '10px solid' + newcolor;	
 	}
 
 function changeContent(display)
@@ -27,10 +37,12 @@ function changeContent(display)
 		if(!display) {return};
 
 		var oAllcontent=document.getElementsByClassName('contentitem');
+		
 		for (var i = oAllcontent.length - 1; i >= 0; i--) 
 			{
 				oAllcontent[i].style.display = 'none';
 			}
+		
 		var oShowcontent=document.getElementById(display);
 		oShowcontent.style.display = 'block';
 	}
@@ -87,7 +99,7 @@ function changeContent(display)
 </div>
 
 <div id="footercontainer">
-	<div id="footer" onMouseOver='changeColor("footer","header","#79A888");'>
+	<div id="footer" onMouseOver='changeColor("footer","header","#79A888","1");'>
 		<a href="http://www.P1.AlexanderPeletz.biz">www.AlexanderPeletz.biz</a> | 2013
 	</div>
 	<div id="footer2">

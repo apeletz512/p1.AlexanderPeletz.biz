@@ -100,7 +100,7 @@ function changeContent(display)
 
 <div id="footercontainer">
 	<div id="footer" onMouseOver='changeColor("footer","header","#79A888","1");'>
-		<a href="http://www.P1.AlexanderPeletz.biz">www.AlexanderPeletz.biz</a> | 2013
+		<p><a href="http://www.P1.AlexanderPeletz.biz">www.AlexanderPeletz.biz</a> | 2013</p>
 	</div>
 	<div id="footer2">
 	</div>

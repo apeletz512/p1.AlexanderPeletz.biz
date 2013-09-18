@@ -4,14 +4,14 @@
 
 #title {margin-top: 1em;}
 #subtitle {text-align: right; font-size: x-small;}
-#headercontainer {float: top; min-width: 1050px;}
+#headercontainer {float: top; min-width: 1050px; margin-bottom: 10em}
 #header {background-color: #FFFFFF; font-family: verdana; text-align: center; width: 750px; height:80px; padding: 10px; border:10px solid #000000; display: inline-block; vertical-align: top;}
 #header2 {background-color: #FFFFFF; width:100px; height:90px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #header3 {background-color: #FFFFFF; width:50px; height:80px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #header4 {background-color: #FFFFFF; width:20px; height:70px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #maincontainer {position: relative; min-width: 1050px; margin-bottom: 100px;}
 #toc {min-height: 500px; width: 200px; float: left;}
-#footercontainer {float: bottom; min-width: 1050x; min-height: 100%}
+#footercontainer {float: bottom; min-width: 1050x;}
 #footer {background-color: #FFFFFF; font-family: verdana; font-size: small; text-align: center; width: 900px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em;}
 #footer2 {background-color: #FFFFFF; width:25px; height:42px;  border: 5px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 

@@ -9,14 +9,14 @@
 #header2 {background-color: #FFFFFF; width:100px; height:90px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #header3 {background-color: #FFFFFF; width:50px; height:80px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #header4 {background-color: #FFFFFF; width:20px; height:70px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
-#maincontainer {position: relative; min-width: 800px; max-height: 500px}
+#maincontainer {position: relative; min-width: 1050px; max-height: 500px}
 #toc {min-height: 500px; width: 200px; float: left;}
-#footerercontainer {background-color: #FFFFFF; float: bottom; min-width: 1500px}
+#footerercontainer {background-color: #FFFFFF; float: bottom; min-width: 1500px;}
 #footer {background-color: #FFFFFF; font-family: verdana; font-size: small; text-align: center; width: 900px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em;}
 #footer2 {background-color: #FFFFFF; width:25px; height:42px;  border: 5px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 
 .menuitem {width: 125px; font-family:verdana; text-align:center; padding:10px; border:10px solid #000000; display: block; background-color: #FFFFFF;}
-.contentitem  {background-color: #F0F0F0; font-family:verdana; text-align:left; padding: 30px; width: 785px; position: relative; margin-top: 2em; margin-bottom: 2em}
+.contentitem  {background-color: #F0F0F0; font-family:verdana; text-align:left; padding: 30px; width: 785px; float: left; margin-top: 2em; margin-bottom: 2em;}
 
 body {background: url('tree.jpg') no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
 a:link {color: black; text-decoration: none;}      /* unvisited link */

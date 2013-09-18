@@ -12,8 +12,8 @@
 #maincontainer {position: relative; min-width: 1050px; margin-bottom: 2em; display: inline-block;}
 #toc {min-height: 400px; width: 200px; float: left; margin-bottom: 9em;}
 #footercontainer {display: inline-block; min-width: 1050px;}
-#footer {background-color: #FFFFFF; font-family: verdana; font-size: small; text-align: center; width: 900px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em; padding: 5px;}
-#footer2 {background-color: #FFFFFF; width:25px; height:42px;  border: 5px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
+#footer {background-color: #FFFFFF; height: 40px; font-family: verdana; font-size: small; text-align: center; width: 900px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em; padding: 5px;}
+#footer2 {background-color: #FFFFFF; width:25px; height:40px;  border: 5px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 
 .menuitem {width: 125px; font-family:verdana; text-align:center; padding:10px; border:10px solid #000000; display: block; background-color: #FFFFFF;}
 .contentitem  {background-color: #F0F0F0; font-family:verdana; text-align:left; padding: 30px; width: 785px; float: left; margin-top: 2em; margin-bottom: 2em; min-height: 100%}

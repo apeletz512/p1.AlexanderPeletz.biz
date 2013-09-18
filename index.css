@@ -9,7 +9,7 @@
 #header2 {background-color: #FFFFFF; width:100px; height:90px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #header3 {background-color: #FFFFFF; width:50px; height:80px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
 #header4 {background-color: #FFFFFF; width:20px; height:70px;  border: 10px solid #000000; display: inline-block; vertical-align: top; margin-left: .25em;}
-#maincontainer {position: absolute; min-width: 800px; float: top}
+#maincontainer {position: absolute; min-width: 800px;}
 #toc {min-height: 500px; width: 200px; display: inline-block;}
 #footerercontainer {background-color: #FFFFFF; float: bottom; min-width: 1050px}
 #footer {background-color: #FFFFFF; font-family: verdana; font-size: small; text-align: center; width: 900px; border:5px solid #000000; display: inline-block; vertical-align: top;  margin-left: .25em;}
